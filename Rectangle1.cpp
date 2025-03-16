@@ -22,3 +22,4 @@ void Rectangle::set_values(double x, double y)
   width = x;
   height = y;
 }
+
